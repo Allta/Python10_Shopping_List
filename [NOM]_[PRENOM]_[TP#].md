@@ -13,7 +13,9 @@ _Ceci est un exemple, vous pouvez le réutiliser pour avoir la syntaxe correct d
 3. Third item
 4. Fourth item 
 
-``Use `code` in your Markdown file.``
+``python
+Use `code` in your Markdown file.
+``
 
 ## Titre 2 
 
