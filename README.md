@@ -66,7 +66,7 @@ Permet d'envoyer la liste de course sur internet. Vous pouvez utiliser un reques
 
 _**Quitter le programme :**_
 
-Permet de quitter entièrement le programme. *Pensez à utiliser la libraie sys* 
+Permet de quitter entièrement le programme. *Pensez à utiliser la librarie sys* 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -184,3 +184,27 @@ Si vous copiez/coller du code sur des sites communautaires il faut **obligatoire
 
 N'hésitez pas à prendre des libertés ou à amméliorer le programme (Par exemple, choisir le type de quantité à rajouter etc..). 
 Il n'y a pas de mauvaise interpretations tant que les fondamentaux sont respectés. 
+
+Vous pouvez rajouter un `helper` qui permet d'afficher le fonctionnement du script lors de l'ajout de l'argument `--help` lors de l'appel du script. 
+
+Ex: 
+
+```
+python shopping_list.py --help 
+===========
+Welcome to My Shopping List ! 
+Dans ce programme vous pouvez créer votre liste de course et ne plus oublier votre sauce tomate. 
+Lors de l'appel du script vous pourrez : 
+
+    1: Ajouter un élément à la liste
+    2: Retirer un élément de la liste
+    3: Afficher la liste
+    4: Vider la liste
+    5: Quitter
+
+
+ -> Ajout d'un article : [Nom de l'article] + [Quantité]
+ ```
+ 
+ Tout ajout de fonctionnalités au script permettra d'amméliorer la notation. Soyez profesionnel sur vos rendus ! 
+
