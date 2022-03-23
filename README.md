@@ -31,7 +31,17 @@ Il faut donc gérer le cas de figure où l'utilisateur ne rentre pas un nombre c
 
 La liste de course doit être sauvegardée dans un fichier **json** sous le nom `shopping.json`. 
 
+    En Python, le JSON s'apparente à un dictionnaire.
+    Il est composé d'un collection de couple clef/valeur
+    
+    Pour formater des données Python en JSON et inversement, la librairie json existe.
+    Cependant il est possible d'écrire un dictionnaire Python dans un fichier JSON.
+    Pour convertir un objet Python en chaine JSON, il faut utiliser l’une des méthodes dump() ou dumps() du module json.
+    La méthode dump() permet d’enregistrer les données JSON dans un fichier tandis que dumps() (=“dump string”) renvoie simplement les données sous forme de chaine JSON et  permet de continuer à travailler avec elles.
+ 
+Exemple d'un fichier .json  : 
 
+![image](https://user-images.githubusercontent.com/51991304/159792369-770b6bef-ffe2-41d1-b2a4-2d0c14dc0a0a.png)
 
 
 ## Livrable
