@@ -6,9 +6,31 @@
 
 ‼️ **Plagiat interdit** ‼️
 
-‼️ **Non-respect des consignes sera pénalisé** ‼️
+‼️ **Le Non-respect des consignes sera pénalisé** ‼️
 
-## Présentation du besoin 
+## Présentation du besoin technique 
+
+### Fonction de la liste de course
+Dans ce projet, il va falloir créer un programme en ligne de commande qui permet de manipuler une liste de courses.
+**Déroulé du script :** 
+
+Le programme doit permettre de réaliser 5 actions :
+
+    Ajouter un élément à la liste de courses
+    Retirer un élément de la liste de courses
+    Afficher les éléments de la liste de courses
+    Vider la liste de courses
+    Quitter le programme
+
+Il faut donc demander à l'utilisateur de choisir parmi une de ces action en entrant un nombre de 1 à 5.
+
+*La gestion d'erreur devra être présente dans le script.*
+Il faut donc gérer le cas de figure où l'utilisateur ne rentre pas un nombre compris entre 1 et 5 ou s'il rentre par exemple des lettres ou un autre symbole invalide. Dans ce cas, il faut afficher de nouveau le menu avec les options disponibles, jusqu'à ce que l'utilisateur choisisse une option valide.
+
+### Sauvegarde de la liste de course 
+
+La liste de course doit être sauvegardée dans un fichier **json** sous le nom `shopping.json`. 
+
 
 
 
