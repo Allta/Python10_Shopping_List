@@ -3,6 +3,7 @@ _Ceci est un exemple, vous pouvez le réutiliser pour avoir la syntaxe correct d
 # Titre 1 
 
 **Voici un texte en gras**
+
 *Voici un texte italique*
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
