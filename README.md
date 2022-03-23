@@ -164,6 +164,8 @@ def add_to_list(item):
 
 Pour *documenter* le code et expliquer ses objectifs vous pouvez utiliser les `docstring` : 
 
+Les docstrings sont des indications déclarées juste sous une fonction pour expliquer son objectif et ce qu'elle retourne par exemple. 
+
 ```python
 
 def add_to_list(item):
