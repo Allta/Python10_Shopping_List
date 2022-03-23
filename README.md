@@ -98,6 +98,25 @@ Exemple d'un fichier .json  :
 ![image](https://user-images.githubusercontent.com/51991304/159792369-770b6bef-ffe2-41d1-b2a4-2d0c14dc0a0a.png)
 
 
+
+### Envoie de la liste de course sur internet
+
+Comme dit précedemment, il faudra envoyer la liste de course sur internet pour pouvoir y accéder depuis n'importe quel appareil à n'importe quel moment. 
+
+Attention, lors de l'envoie d'une requête HTTP via requests, l'envoie de dictionnaire imbriqué n'est pas géré par Python. 
+Pour cela vous pouvez *serialiser* votre dictionaire à l'aide de la librairie json : 
+
+```python 
+data = {'param1': {'a':[100, 200]},
+        'param2': 'value2',
+        'param3': False}
+
+r = requests.post(url,data=json.dumps(data)))
+```
+
+Ou alors vous pouvez envo
+
+
 ## Livrable
 ### Documentation Technique  
 
