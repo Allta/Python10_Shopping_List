@@ -145,3 +145,32 @@ Le programme python et ses fichiers de configuration ou tout fichiers liés au p
 
 Tous les livrables (Documentation technique + programme) devront être présent sur le repository à la fin de la séance. 
 Le repository sera **fermé** et il sera **impossible** de commiter une fois les 4h terminées. 
+
+### Conseil 
+
+Ajoutez dans votre rendu **TOUTES** les documentations que vous avez utilisé. Documentez le plus possible votre travail. 
+
+Pour documenter votre code vous pouvez commenter unitairement votre code à l'aide des `#`: 
+
+Les commentaires unitaire permettent d'expliquer le code aux autres developpeurs : 
+```python
+
+def add_to_list(item):
+    shopping_list.append(item)
+    print('{} was added to your shopping list!'.format(item))
+    # len(shopping_list) permet de récupérer la longueur de la liste. Attention aux indices!
+    print('You have {} items on your list.'.format(len(shopping_list)))
+```
+
+Pour *documenter* le code et expliquer ses objectifs vous pouvez utiliser les `docstring` : 
+
+```python
+
+def add_to_list(item):
+       """Creer une fonction qui permet d'ajouter un element à une liste.  Elle retourne une liste."""
+    shopping_list.append(item)
+    print('{} was added to your shopping list!'.format(item))
+    # len(shopping_list) permet de récupérer la longueur de la liste. Attention aux indices!
+    print('You have {} items on your list.'.format(len(shopping_list)))
+    return shopping_list
+```
