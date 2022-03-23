@@ -18,6 +18,7 @@ Cette liste de course devra être persistente. C'est à dire qu'elle devra être
 
 Une fois la liste de course valider par l'utilisateur il faudra l'envoyer sur internet pour pouvoir y accéder depuis n'importe quel appareil. 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Fonction de la liste de course
 Dans ce projet, il va falloir créer un programme en ligne de commande qui permet de manipuler une liste de courses.
