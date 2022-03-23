@@ -43,6 +43,17 @@ _**Ajouter un élément :**_
 
 L'ajout d'un élément devra prendre en compte : `nom de l'article` ainsi que sa `quantité` (En gramme ou en nombre d'unité).
 
+_**Retier un élément :**_
+
+Il faut supprimer l'article de la liste de course ainsi que les quantités. Peu importe si il s'agit d'une quantité en gramme ou en unité. 
+
+_**Afficher la liste de course :**_
+
+Il faut afficher la liste de course sous forme : 
+
+    ==== Voici votre liste de course ====
+    Nom de l'article : Quantité
+
 ### Sauvegarde de la liste de course 
 
 La liste de course doit être sauvegardée dans un fichier **json** sous le nom `shopping.json`. 
