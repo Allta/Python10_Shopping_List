@@ -54,7 +54,7 @@ Il faut afficher la liste de course sous forme :
     ==== Voici votre liste de course ====
     Farine : 500g
     Pate : 1kg
-    Yaout: 6 
+    Yaourt: 6 
 
 _**Vider la liste de course :**_
 
