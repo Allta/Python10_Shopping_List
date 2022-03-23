@@ -17,6 +17,8 @@ _Ceci est un exemple, vous pouvez le réutiliser pour avoir la syntaxe correct d
 Use `code` in your Markdown file.
 ```
 
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
 ## Titre 2 
 
 ### Titre 3
@@ -41,3 +43,10 @@ Une fois le screenshot **copié**, vous pouvez juste faire un **collé** dans le
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exemple de plan : 
+
+- Résumé du besoin
+- Résumé des fonctionnalités du programme python 
+- Explication des points techniques
+- Difficultés rencontrés.
