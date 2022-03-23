@@ -68,6 +68,8 @@ _**Quitter le programme :**_
 
 Permet de quitter entièrement le programme. *Pensez à utiliser la libraie sys* 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Sauvegarde de la liste de course 
 
 La liste de course doit être sauvegardée dans un fichier **json** sous le nom `shopping.json`. 
@@ -98,6 +100,7 @@ Exemple d'un fichier .json  :
 ![image](https://user-images.githubusercontent.com/51991304/159792369-770b6bef-ffe2-41d1-b2a4-2d0c14dc0a0a.png)
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Envoie de la liste de course sur internet
 
@@ -114,8 +117,7 @@ data = {'param1': {'a':[100, 200]},
 r = requests.post(url,data=json.dumps(data)))
 ```
 
-Ou alors vous pouvez envo
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Livrable
 ### Documentation Technique  
