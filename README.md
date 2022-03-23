@@ -178,7 +178,9 @@ def add_to_list(item):
     return shopping_list
 ```
 
-#### Techniques
+Si vous copiez/coller du code sur des sites communautaires il faut **obligatoirement** l'expliquer dans un commentaire. 
+
+#### Technique
 
 N'hésitez pas à prendre des libertés ou à amméliorer le programme (Par exemple, choisir le type de quantité à rajouter etc..). 
 Il n'y a pas de mauvaise interpretations tant que les fondamentaux sont respectés. 
