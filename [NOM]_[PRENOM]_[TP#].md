@@ -2,6 +2,16 @@ _Ceci est un exemple, vous pouvez le réutiliser pour avoir la syntaxe correct d
 
 # Titre 1 
 
+**Voici un texte en gras**
+*Voici un texte italique*
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item 
+
 ## Titre 2 
 
 ### Titre 3
