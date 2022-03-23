@@ -10,17 +10,26 @@
 
 ## Présentation du besoin technique 
 
+### Résumé 
+
+Vous allez devoir réaliser un programme en ligne de commande qui permet de gérer une liste de course.
+Il va falloir pouvoir rajouter/enlever/afficher des éléments dans votre liste de course. 
+Cette liste de course devra être persistente. C'est à dire qu'elle devra être sauvegardée sur le disque pour pouvoir la modifier et la récupérer même lorsque le programme ne fonctionnera plus. 
+
+Une fois la liste de course valider par l'utilisateur il faudra l'envoyer sur internet pour pouvoir y accéder depuis n'importe quel appareil. 
+
+
 ### Fonction de la liste de course
 Dans ce projet, il va falloir créer un programme en ligne de commande qui permet de manipuler une liste de courses.
 **Déroulé du script :** 
 
 Le programme doit permettre de réaliser 5 actions :
 
-    Ajouter un élément à la liste de courses
-    Retirer un élément de la liste de courses
-    Afficher les éléments de la liste de courses
-    Vider la liste de courses
-    Quitter le programme
+- Ajouter un élément à la liste de courses
+- Retirer un élément de la liste de courses
+- Afficher les éléments de la liste de courses
+- Vider la liste de courses
+- Quitter le programme
 
 Il faut donc demander à l'utilisateur de choisir parmi une de ces action en entrant un nombre de 1 à 5.
 
