@@ -19,6 +19,7 @@ Cette liste de course devra être persistente. C'est à dire qu'elle devra être
 Une fois la liste de course valider par l'utilisateur il faudra l'envoyer sur internet pour pouvoir y accéder depuis n'importe quel appareil. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Fonction de la liste de course
 Dans ce projet, il va falloir créer un programme en ligne de commande qui permet de manipuler une liste de courses.
@@ -40,6 +41,11 @@ Il faut donc gérer le cas de figure où l'utilisateur ne rentre pas un nombre c
 ### Sauvegarde de la liste de course 
 
 La liste de course doit être sauvegardée dans un fichier **json** sous le nom `shopping.json`. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+**INFORMATION TECHNIQUE**
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 
     En Python, le JSON s'apparente à un dictionnaire.
     Il est composé d'un collection de couple clef/valeur
