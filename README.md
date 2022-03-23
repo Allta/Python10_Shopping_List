@@ -31,12 +31,17 @@ Le programme doit permettre de réaliser 5 actions :
 - Retirer un élément de la liste de courses
 - Afficher les éléments de la liste de courses
 - Vider la liste de courses
+- Valider la liste de course et l'envoyer sur internet
 - Quitter le programme
 
 Il faut donc demander à l'utilisateur de choisir parmi une de ces action en entrant un nombre de 1 à 5.
 
 *La gestion d'erreur devra être présente dans le script.*
 Il faut donc gérer le cas de figure où l'utilisateur ne rentre pas un nombre compris entre 1 et 5 ou s'il rentre par exemple des lettres ou un autre symbole invalide. Dans ce cas, il faut afficher de nouveau le menu avec les options disponibles, jusqu'à ce que l'utilisateur choisisse une option valide.
+
+_**Ajouter un élément :**_
+
+L'ajout d'un élément devra prendre en compte : `nom de l'article` ainsi que sa `quantité` (En gramme ou en nombre d'unité).
 
 ### Sauvegarde de la liste de course 
 
