@@ -52,7 +52,9 @@ _**Afficher la liste de course :**_
 Il faut afficher la liste de course sous forme : 
 
     ==== Voici votre liste de course ====
-    Nom de l'article : Quantité
+    Farine : 500g
+    Pate : 1kg
+    Yaout: 6 
 
 ### Sauvegarde de la liste de course 
 
