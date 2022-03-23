@@ -56,6 +56,18 @@ Il faut afficher la liste de course sous forme :
     Pate : 1kg
     Yaout: 6 
 
+_**Vider la liste de course :**_
+
+Permet de réinitialiser la liste de course
+
+_**Valider la liste de course :**_
+
+Permet d'envoyer la liste de course sur internet. Vous pouvez utiliser un request bin (https://requestbin.com/r) -- *Pensez à utiliser un requestbin publique*
+
+_**Quitter le programme :**_
+
+Permet de quitter entièrement le programme. *Pensez à utiliser la libraie sys* 
+
 ### Sauvegarde de la liste de course 
 
 La liste de course doit être sauvegardée dans un fichier **json** sous le nom `shopping.json`. 
