@@ -47,6 +47,14 @@ L'ajout d'un élément devra prendre en compte : `nom de l'article` ainsi que sa
 
 La liste de course doit être sauvegardée dans un fichier **json** sous le nom `shopping.json`. 
 
+Le programme devra vérifier si un fichier `shopping.json` existe déjà ou non. 
+
+Si le fichier existe déjà il faudra récupérer la liste de course existante et la modifier. 
+
+Si le fichier n'existe pas alors il faut partir sur une liste vide. 
+
+Lorsque l'utilisateur quittera le programme, il faudra sauvegarder le fichier sur le disque en écrasant l'ancien. 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 **INFORMATION TECHNIQUE**
 
