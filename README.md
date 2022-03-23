@@ -148,6 +148,7 @@ Le repository sera **fermé** et il sera **impossible** de commiter une fois les
 
 ### Conseil 
 
+#### Documentations
 Ajoutez dans votre rendu **TOUTES** les documentations que vous avez utilisé. Documentez le plus possible votre travail. 
 
 Pour documenter votre code vous pouvez commenter unitairement votre code à l'aide des `#`: 
@@ -176,3 +177,8 @@ def add_to_list(item):
     print('You have {} items on your list.'.format(len(shopping_list)))
     return shopping_list
 ```
+
+#### Techniques
+
+N'hésitez pas à prendre des libertés ou à amméliorer le programme (Par exemple, choisir le type de quantité à rajouter etc..). 
+Il n'y a pas de mauvaise interpretations tant que les fondamentaux sont respectés. 
