@@ -1,49 +1,42 @@
-# TP Git - Ynov Python B1
+# Examen Introduction Python - Ynov Python B1
 
-:see_no_evil: _**Il s'agit d'un travail autonomne.**_ :speak_no_evil:
+## Consignes
 
-## **Rendu :** Un fichier _md_ ->  B1_GIT_[NOM]\_[PRENOM].md
+:see_no_evil: _**Il s'agit d'un travail autonomne. Toute communication sera sanctionnée.**_ :speak_no_evil:
 
-Vous avez un template de rendu dans le repo. 
-Pour chaque étape, documenter vos actions : 
+‼️ **Plagiat interdit** ‼️
 
-        Screenshot commande + output
-        Explication d'une ou 2 ligne sur ce que fait la commande
+‼️ **Non-respect des consignes sera pénalisé** ‼️
+
+## Présentation du besoin 
+
+
+
+## Livrable
+### Documentation Technique  
+
+**Un fichier _md_ ->  [NOM]\_[PRENOM].md** 
+
+Il y a un template de rendu dans le repository. Vous pouvez le reprendre et le modifier. 
+Le template contient la syntaxe **Markdown** qui permet de réaliser des rendu esthétique et professionnel très rapidement. 
         
-A chaque exercice rajouter un titre et le nom de l'exercice. La syntaxe ainsi que l'upload de l'image sont décrit dans des liens en haut du template.
-
 :bangbang::bangbang: Pensez à renommer le fichier avec votre **Nom** et **Prénom**
 
 :sparkles: Une fois le TP et le rendu terminé commitez et pushez le dans le repo. :sparkles:
   
-### Tips   
-Si vous avez des problèmes sur une command utilisez `git [command] --help`.
+_**Il n'y a pas de minimum ou de maximum de pages démandées. La notation se fera sur la qualité du rendu.**_ 
 
-:raising_hand: Si vous avez des soucis n'hésitez pas à m'appeler. 
+ Cette documentation technique doit : 
+ - Rappeler le besoin 
+ - Expliquer le fonctionnement du programme 
+ - Inclure une documentation d'utilisation ( Comme le `--help` d'une commande linux)
  
-## Exercice 1: Authentification
+ Les screenshots sont les bienvenus dans ce rendu. 
+ 
+ ### Technique
 
-- Générer une paire de clef SSH
-- Pousser votre clef publique dans votre profile Github
+Le programme python et ses fichiers de configuration ou tout fichiers liés au programme devront être présents sur ce repository. 
+### Délais 
 
-
-## Exercice 2 : Cloner le repository
-
-- Cloner le repository sur votre machine
-
-## Exercice 3 : Modification du Projet
-
-- Modifier un fichier déjà existant : `helloworld.py`
-  - Rajouter une ligne qui print : "J'apprends Python !"
-  - Rajouter une variable `foo = "bar"` et printez la. 
-
-- Consulter le statut et les différences
-  - `git status` et `git diff` 
-- Ajouter un fichier `main.py` 
-  - Créer 2 variables `y = 5` et `z = 9`
-  - Additionner ces 2 variables et afficher leur somme.
-- Ajouter le fichier `main.py` dans le suivi de votre projet Git 
-  - `git add main.py` 
-- Commiter vos modifications
-- Pousser vos modifications
-
+Tous les livrables (Documentation technique + programme) devront être présent sur le repository à la fin de la séance. 
+Le repository sera **fermé** et il sera **impossible** de commiter une fois les 4h terminées. 
