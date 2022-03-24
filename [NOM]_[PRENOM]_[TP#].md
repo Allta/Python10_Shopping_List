@@ -49,4 +49,5 @@ Exemple de plan :
 - Résumé du besoin
 - Résumé des fonctionnalités du programme python 
 - Explication des points techniques
+- Documentation utilisation du programme
 - Difficultés rencontrés.
