@@ -136,6 +136,7 @@ _**Il n'y a pas de minimum ou de maximum de pages démandées. La notation se fe
  Cette documentation technique doit obligatoirement : 
  - Rappeler le besoin 
  - Expliquer le fonctionnement du programme 
+ - Expliquer les points techniques du programme
  - Inclure une documentation d'utilisation ( Comme le `--help` d'une commande linux)
  
  Les screenshots sont les bienvenus dans ce rendu. 
@@ -143,12 +144,13 @@ _**Il n'y a pas de minimum ou de maximum de pages démandées. La notation se fe
  ### Technique
 
 Le programme python et ses fichiers de configuration ou tout fichiers liés au programme devront être présents sur ce repository. 
+
 ### Délais 
 
 Tous les livrables (Documentation technique + programme) devront être présent sur le repository à la fin de la journée.e 
 Le repository sera **fermé** et il sera **impossible** de commiter une fois le délais écoulé. 
 
-### Conseil 
+## Conseil 
 
 - Lisez bien l'intégralité de l'énoncé avant de commencer. 
 - Documenter votre code au fur et à mesure. 
@@ -157,7 +159,7 @@ Le repository sera **fermé** et il sera **impossible** de commiter une fois le 
 - Soyez clair et concis dans votre rendu. Inutile de copier/coller 30 lignes de Wikipedia pour faire du contenu. 
 
 
-#### Documentations
+### Documentations
 Ajoutez dans votre rendu **TOUTES** les documentations que vous avez utilisé (Stackoverflow inclus ;) ). Documentez le plus possible votre travail. 
 
 Pour documenter votre code vous pouvez commenter unitairement votre code à l'aide des `#`: 
@@ -189,7 +191,7 @@ def add_to_list(item):
 
 Si vous copiez/coller du code sur des sites communautaires il faut **obligatoirement** l'expliquer dans un commentaire. 
 
-#### Technique
+### Technique
 
 N'hésitez pas à prendre des libertés ou à amméliorer le programme (Par exemple, choisir le type de quantité à rajouter etc..). 
 Il n'y a pas de mauvaise interpretations tant que les fondamentaux sont respectés. 
