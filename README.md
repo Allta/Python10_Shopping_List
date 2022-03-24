@@ -150,8 +150,15 @@ Le repository sera **fermé** et il sera **impossible** de commiter une fois le 
 
 ### Conseil 
 
+- Lisez bien l'intégralité de l'énoncé avant de commencer. 
+- Documenter votre code au fur et à mesure. 
+- Découper votre code avec des fonctions.
+- Les supports de cours reprennent toutes les notions inclus dans ce TP.
+- Soyez clair et concis dans votre rendu. Inutile de copier/coller 30 lignes de Wikipedia pour faire du contenu. 
+
+
 #### Documentations
-Ajoutez dans votre rendu **TOUTES** les documentations que vous avez utilisé. Documentez le plus possible votre travail. 
+Ajoutez dans votre rendu **TOUTES** les documentations que vous avez utilisé (Stackoverflow inclus ;) ). Documentez le plus possible votre travail. 
 
 Pour documenter votre code vous pouvez commenter unitairement votre code à l'aide des `#`: 
 
@@ -208,5 +215,8 @@ Lors de l'appel du script vous pourrez :
  -> Ajout d'un article : [Nom de l'article] + [Quantité]
  ```
  
+ Vous pouvez aussi rajouter un tri par catégorie des produits. La structure de la liste de course est libre. 
  Tout ajout de fonctionnalités au script permettra d'amméliorer la notation. Soyez profesionnel sur vos rendus ! 
+ 
+ 
 
