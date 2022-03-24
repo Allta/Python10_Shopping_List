@@ -36,10 +36,10 @@ Le programme doit permettre de réaliser 5 actions :
 - Valider la liste de course et l'envoyer sur internet
 - Quitter le programme
 
-Il faut donc demander à l'utilisateur de choisir parmi une de ces actions en entrant un nombre de 1 à 5.
+Il faut donc demander à l'utilisateur de choisir parmi une de ces actions en entrant un nombre de 1 à 6.
 
 *La gestion d'erreur devra être présente dans le script.*
-Il faut donc gérer le cas de figure où l'utilisateur ne rentre pas un nombre compris entre 1 et 5 ou s'il rentre par exemple des lettres ou un autre symbole invalide. Dans ce cas, il faut afficher de nouveau le menu avec les options disponibles, jusqu'à ce que l'utilisateur choisisse une option valide.
+Il faut donc gérer le cas de figure où l'utilisateur ne rentre pas un nombre compris entre 1 et 6 ou s'il rentre par exemple des lettres ou un autre symbole invalide. Dans ce cas, il faut afficher de nouveau le menu avec les options disponibles, jusqu'à ce que l'utilisateur choisisse une option valide.
 
 _**Ajouter un élément :**_
 
