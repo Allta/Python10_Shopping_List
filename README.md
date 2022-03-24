@@ -145,6 +145,8 @@ _**Il n'y a pas de minimum ou de maximum de pages démandées. La notation se fe
 
 Le programme python et ses fichiers de configuration ou tout fichiers liés au programme devront être présents sur ce repository. 
 
+Ainsi que le lien vers le requestbin.
+
 ### Délais 
 
 Tous les livrables (Documentation technique + programme) devront être présent sur le repository à la fin de la journée.e 
