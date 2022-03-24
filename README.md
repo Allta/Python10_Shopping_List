@@ -8,6 +8,8 @@
 
 ‼️ **Le Non-respect des consignes sera pénalisé** ‼️
 
+**Soyez profesionnel dans votre rendu**
+
 ## Présentation du besoin technique 
 
 ### Résumé 
@@ -131,7 +133,7 @@ Le template contient la syntaxe **Markdown** qui permet de réaliser des rendu e
   
 _**Il n'y a pas de minimum ou de maximum de pages démandées. La notation se fera sur la qualité du rendu.**_ 
 
- Cette documentation technique doit : 
+ Cette documentation technique doit obligatoirement : 
  - Rappeler le besoin 
  - Expliquer le fonctionnement du programme 
  - Inclure une documentation d'utilisation ( Comme le `--help` d'une commande linux)
@@ -143,8 +145,8 @@ _**Il n'y a pas de minimum ou de maximum de pages démandées. La notation se fe
 Le programme python et ses fichiers de configuration ou tout fichiers liés au programme devront être présents sur ce repository. 
 ### Délais 
 
-Tous les livrables (Documentation technique + programme) devront être présent sur le repository à la fin de la séance. 
-Le repository sera **fermé** et il sera **impossible** de commiter une fois les 4h terminées. 
+Tous les livrables (Documentation technique + programme) devront être présent sur le repository à la fin de la journée.e 
+Le repository sera **fermé** et il sera **impossible** de commiter une fois le délais écoulé. 
 
 ### Conseil 
 
