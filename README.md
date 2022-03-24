@@ -216,7 +216,11 @@ Lors de l'appel du script vous pourrez :
  ```
  
  Vous pouvez aussi rajouter un tri par catégorie des produits. La structure de la liste de course est libre. 
- Tout ajout de fonctionnalités au script permettra d'amméliorer la notation. Soyez profesionnel sur vos rendus ! 
+ 
+ Tout ajout de fonctionnalités au script permettra d'amméliorer la notation, cela inclut aussi sa documentation.
+ 
+ 
+ **Soyez profesionnel sur vos rendus !**
  
  
 
